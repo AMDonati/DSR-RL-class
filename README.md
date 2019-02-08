@@ -24,10 +24,10 @@ Repo for the "Intro to Reinforcement Learning" Class @ DSR
 #### step 4. Install gym with pip 
 * `pip install gym==0.7.0`
 * or you can directly clone the gym repository: 
-* `cd
+* `cd`
 * `git clone https://github.com/openai/gym.git`
 * `cd gym`
-* `pip install -e '.[all]'
+* `pip install -e '.[all]'`
 
 ### Additionnal ressources on RL
 * https://github.com/AMDonati/RL-ressources-tutos-2018
