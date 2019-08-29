@@ -18,6 +18,7 @@ Repo for the "Intro to Reinforcement Learning" Class @ DSR
 * `pip install gym==0.7.0`
 
 ## Notebooks for the practical exercises
+https://github.com/AMDonati/DSR-RL-class/tree/master/notebooks
 
 ### Additionnal ressources on RL
 * https://github.com/AMDonati/RL-ressources-tutos-2018
