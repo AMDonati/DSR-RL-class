@@ -20,5 +20,5 @@ Repo for the "Intro to Reinforcement Learning" Class @ DSR
 ## Notebooks for the practical exercises
 https://github.com/AMDonati/DSR-RL-class/tree/master/notebooks
 
-### Additionnal ressources on RL
+### Additional resources on RL
 * https://github.com/AMDonati/RL-ressources-tutos-2018
