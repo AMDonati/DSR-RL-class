@@ -2,7 +2,7 @@
 Repo for the "Intro to Reinforcement Learning" Class @ DSR
 
 ### Slides for the class
-* The slides for the class are available [here] (https://docs.google.com/presentation/d/1vfdCLFse1Z8pocViCO5kI-sJrWYLjQGmvYj8r1bb2ds/edit?usp=sharing)
+* The slides for the class are available [here](https://docs.google.com/presentation/d/1vfdCLFse1Z8pocViCO5kI-sJrWYLjQGmvYj8r1bb2ds/edit?usp=sharing)
 
 ### Set-up of OpenAI gym, the python library for Reinforcement Learning on the command line
 `pip install gym==0.7.0`
