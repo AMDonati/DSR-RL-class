@@ -20,6 +20,9 @@ Repo for the "Intro to Reinforcement Learning" Class @ DSR
 ### Notebooks for the practical exercises
 https://github.com/AMDonati/DSR-RL-class/tree/master/notebooks
 
+### Additional resources on RL
+* https://github.com/AMDonati/RL-ressources-tutos-2018
+ 
 ### Reading activity
 Choose one article in the list below, read it in details, and prepare a summary of the article that you will present to the other students:
 * [Deep Reinforcement Learning doesn't work yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
@@ -27,5 +30,3 @@ Choose one article in the list below, read it in details, and prepare a summary 
 * [Pong on Pixels](http://karpathy.github.io/2016/05/31/rl/)
 * [AlphaGo original paper](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
  
-### Additionnal ressources on RL
-* https://github.com/AMDonati/RL-ressources-tutos-2018
